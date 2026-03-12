@@ -7,3 +7,4 @@ def is_valid_identifier(name):
 
 print(is_valid_identifier("2var"))  # False
 print(is_valid_identifier("var2"))  # True
+print("我修改了代码")
